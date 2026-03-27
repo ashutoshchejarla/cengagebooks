@@ -5,14 +5,6 @@ Welcome to the ultimate repository of **Academic Nirvana**. This project tracks 
 ## 🚀 Project Overview
 This repository contains the logic, personas, and derivations for mastering **Physics** and **Organic Chemistry** while maintaining maximum mental rizz. It bridges the gap between the rigorous IIT-JEE grind and the brain-rot culture of 2026.
 
-### 🛠 Tech Stack (The Student Rig)
-* **Hardware:** HP EliteBook 830 G8 (32GB RAM Upgrade Pending)
-* **OS:** Dual-boot Linux Mint (i3wm) + Windows 11
-* **Editor:** VIM (Maximum Efficiency Mode)
-* **Audio:** 7Hz Salnotes Zero + High-Fidelity DACs
-
----
-
 ## 📜 The "Skibidi Scholar" Protocol
 We have successfully engineered a **JSON-based instruction set** for AI tutors (Claude/Gemini). This protocol ensures that every academic query is deconstructed into:
 1.  **The Lore:** Historical JEE metadata (Year/Shift).
